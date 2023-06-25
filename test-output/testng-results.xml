@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-25T15:33:42 IST" name="Default suite" finished-at="2023-06-25T15:35:50 IST" duration-ms="128018">
+    <groups>
+    </groups>
+    <test started-at="2023-06-25T15:33:42 IST" name="Default test" finished-at="2023-06-25T15:35:50 IST" duration-ms="128018">
+      <class name="demo.AppiumFramework.Hybridapptest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:demo.AppiumFramework.Hybridapptest@5158b42f]" started-at="2023-06-25T15:33:42 IST" name="setup" finished-at="2023-06-25T15:33:59 IST" duration-ms="16120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bookNow()[pri:0, instance:demo.AppiumFramework.Hybridapptest@5158b42f]" started-at="2023-06-25T15:33:59 IST" name="bookNow" finished-at="2023-06-25T15:34:21 IST" duration-ms="22974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookNow -->
+        <test-method signature="menuBar_bookings()[pri:1, instance:demo.AppiumFramework.Hybridapptest@5158b42f]" started-at="2023-06-25T15:34:21 IST" name="menuBar_bookings" finished-at="2023-06-25T15:34:37 IST" duration-ms="15974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuBar_bookings -->
+        <test-method signature="aboutUs()[pri:2, instance:demo.AppiumFramework.Hybridapptest@5158b42f]" started-at="2023-06-25T15:34:37 IST" name="aboutUs" finished-at="2023-06-25T15:34:54 IST" duration-ms="16142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUs -->
+        <test-method signature="informationCenter()[pri:3, instance:demo.AppiumFramework.Hybridapptest@5158b42f]" started-at="2023-06-25T15:34:54 IST" name="informationCenter" finished-at="2023-06-25T15:35:14 IST" duration-ms="20058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- informationCenter -->
+        <test-method signature="Profile()[pri:4, instance:demo.AppiumFramework.Hybridapptest@5158b42f]" started-at="2023-06-25T15:35:14 IST" name="Profile" finished-at="2023-06-25T15:35:21 IST" duration-ms="7754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Profile -->
+        <test-method signature="appLanguage()[pri:5, instance:demo.AppiumFramework.Hybridapptest@5158b42f]" started-at="2023-06-25T15:35:21 IST" name="appLanguage" finished-at="2023-06-25T15:35:35 IST" duration-ms="13677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLanguage -->
+        <test-method signature="callUs()[pri:6, instance:demo.AppiumFramework.Hybridapptest@5158b42f]" started-at="2023-06-25T15:35:35 IST" name="callUs" finished-at="2023-06-25T15:35:50 IST" duration-ms="15292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callUs -->
+      </class> <!-- demo.AppiumFramework.Hybridapptest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
